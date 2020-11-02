@@ -1,39 +1,54 @@
-
-    {
-        "Cadastro": [
-
-            {
-                "id": 1,
-                "first_name": "Darrell",
-                "last_name": "Bramhall",
-                "email": "dbramhall0@amazonaws.com",
-                "gender": "Male",
-                "ip_address": "248.27.233.76"
-            },
-            {
-                "id": 2,
-                "first_name": "Devina",
-                "last_name": "Clericoates",
-                "email": "dclericoates1@spotify.com",
-                "gender": "Female",
-                "ip_address": "63.48.39.42"
-            },
-            {
-                "id": 3,
-                "first_name": "Robbie",
-                "last_name": "McQuaker",
-                "email": "rmcquaker2@vistaprint.com",
-                "gender": "Male",
-                "ip_address": "62.40.41.162"
-            },
-            {
-                "id": 4,
-                "first_name": "Belvia",
-                "last_name": "Criple",
-                "email": "bcriple3@gravatar.com",
-                "gender": "Female",
-                "ip_address": "98.26.135.251"
-            }
-        ]
-    
+{
+    "cursos": [
+        {
+            "id": 1,
+            "titulo": "Entendendo o ES6",
+            "url": "https://www.codeprestige.com.br/cursos/es6"
+        },
+        {
+            "id": 2,
+            "titulo": "Produtividade Máxima com o VS Code",
+            "url": "https://www.udemy.com/truques-vscode/"
+        },
+        {
+            "id": 3,
+            "titulo": "Entendendo o ES7/ES8",
+            "url": "https://www.codeprestige.com.br/cursos/es7-8"
+        },
+        {
+            "id": 4,
+            "titulo": "React 16 Definitivo",
+            "url": "https://www.udemy.com/react-16/"
+        }
+    ],
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Marcela da Silva",
+            "curso": 1
+        },
+        {
+            "id": 2,
+            "nome": "José Luiz Felipe",
+            "curso": 2
+        },
+        {
+            "id": 3,
+            "nome": "Paulo Rogério",
+            "curso": 3
+        },
+        {
+            "id": 4,
+            "nome": "Felipe da Cunha",
+            "curso": 1
+        },
+        {
+            "id": 5,
+            "nome": "Luiza Cardoso Pereira",
+            "curso": 1
+        }
+    ],
+    "empresa": {
+        "nome": "Code Prestige"
     }
+}
