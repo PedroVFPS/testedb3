@@ -3,53 +3,73 @@
     "alunos": [
         {
             "id": 1,
-            "nome": "Marcela da Silva",
-            "curso": "Engenharia"
+            "first_name": "Cassaundra",
+            "last_name": "Morilla",
+            "email": "cmorilla0@163.com",
+            "gender": "Female"
         },
         {
             "id": 2,
-            "nome": "José Luiz Felipe",
-            "curso": "Direito"
+            "first_name": "Chandra",
+            "last_name": "Kusick",
+            "email": "ckusick1@nifty.com",
+            "gender": "Female"
         },
         {
             "id": 3,
-            "nome": "Paulo Rogério",
-            "curso": "Engenharia"
+            "first_name": "Britt",
+            "last_name": "Pickover",
+            "email": "bpickover2@ucoz.ru",
+            "gender": "Male"
         },
         {
             "id": 4,
-            "nome": "Felipe da Cunha",
-            "curso": 1
+            "first_name": "Reade",
+            "last_name": "Enocksson",
+            "email": "renocksson3@yahoo.co.jp",
+            "gender": "Male"
         },
         {
             "id": 5,
-            "nome": "Luiza Cardoso Pereira",
-            "curso": 1
+            "first_name": "Rorie",
+            "last_name": "Pieroni",
+            "email": "rpieroni4@wp.com",
+            "gender": "Female"
         },
         {
             "id": 6,
-            "nome": "Felipe da Cunha",
-            "curso": 1
+            "first_name": "Estel",
+            "last_name": "Brangan",
+            "email": "ebrangan5@aboutads.info",
+            "gender": "Female"
         },
         {
             "id": 7,
-            "nome": "Felipe da Cunha",
-            "curso": 1
+            "first_name": "Marleen",
+            "last_name": "Lyosik",
+            "email": "mlyosik6@123-reg.co.uk",
+            "gender": "Female"
         },
         {
             "id": 8,
-            "nome": "Felipe da Cunha",
-            "curso": 1
+            "first_name": "Gawain",
+            "last_name": "Salomon",
+            "email": "gsalomon7@sohu.com",
+            "gender": "Male"
         },
         {
             "id": 9,
-            "nome": "Felipe da Cunha",
-            "curso": 1
+            "first_name": "Lyman",
+            "last_name": "Clougher",
+            "email": "lclougher8@youku.com",
+            "gender": "Male"
         },
         {
             "id": 10,
-            "nome": "Felipe da Cunha",
-            "curso": 1
+            "first_name": "Forster",
+            "last_name": "Beecraft",
+            "email": "fbeecraft9@fotki.com",
+            "gender": "Male"
         }
     ]
 }
