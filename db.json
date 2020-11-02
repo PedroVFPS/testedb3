@@ -1,88 +1,88 @@
 [
     {
-        "Cadastro": {
+        "Cadastro": [
 
-                        {
-                            "id": 1,
-                            "first_name": "Darrell",
-                            "last_name": "Bramhall",
-                            "email": "dbramhall0@amazonaws.com",
-                            "gender": "Male",
-                            "ip_address": "248.27.233.76"
-                        },
-                        {
-                            "id": 2,
-                            "first_name": "Devina",
-                            "last_name": "Clericoates",
-                            "email": "dclericoates1@spotify.com",
-                            "gender": "Female",
-                            "ip_address": "63.48.39.42"
-                        },
-                        {
-                            "id": 3,
-                            "first_name": "Robbie",
-                            "last_name": "McQuaker",
-                            "email": "rmcquaker2@vistaprint.com",
-                            "gender": "Male",
-                            "ip_address": "62.40.41.162"
-                        },
-                        {
-                            "id": 4,
-                            "first_name": "Belvia",
-                            "last_name": "Criple",
-                            "email": "bcriple3@gravatar.com",
-                            "gender": "Female",
-                            "ip_address": "98.26.135.251"
-                        },
-                        {
-                            "id": 5,
-                            "first_name": "Kellby",
-                            "last_name": "Nichols",
-                            "email": "knichols4@moonfruit.com",
-                            "gender": "Male",
-                            "ip_address": "134.210.244.88"
-                        },
-                        {
-                            "id": 6,
-                            "first_name": "Bran",
-                            "last_name": "Jobbings",
-                            "email": "bjobbings5@about.com",
-                            "gender": "Male",
-                            "ip_address": "168.190.229.225"
-                        },
-                        {
-                            "id": 7,
-                            "first_name": "Hugo",
-                            "last_name": "Mulvihill",
-                            "email": "hmulvihill6@domainmarket.com",
-                            "gender": "Male",
-                            "ip_address": "132.134.123.122"
-                        },
-                        {
-                            "id": 8,
-                            "first_name": "Clarine",
-                            "last_name": "Welldrake",
-                            "email": "cwelldrake7@paypal.com",
-                            "gender": "Female",
-                            "ip_address": "6.86.164.247"
-                        },
-                        {
-                            "id": 9,
-                            "first_name": "Kinna",
-                            "last_name": "Rigeby",
-                            "email": "krigeby8@csmonitor.com",
-                            "gender": "Female",
-                            "ip_address": "107.198.208.73"
-                        },
-                        {
-                            "id": 10,
-                            "first_name": "Lesli",
-                            "last_name": "Trodler",
-                            "email": "ltrodler9@arizona.edu",
-                            "gender": "Female",
-                            "ip_address": "185.170.183.79"
-                        }
-        }
+            {
+                "id": 1,
+                "first_name": "Darrell",
+                "last_name": "Bramhall",
+                "email": "dbramhall0@amazonaws.com",
+                "gender": "Male",
+                "ip_address": "248.27.233.76"
+            },
+            {
+                "id": 2,
+                "first_name": "Devina",
+                "last_name": "Clericoates",
+                "email": "dclericoates1@spotify.com",
+                "gender": "Female",
+                "ip_address": "63.48.39.42"
+            },
+            {
+                "id": 3,
+                "first_name": "Robbie",
+                "last_name": "McQuaker",
+                "email": "rmcquaker2@vistaprint.com",
+                "gender": "Male",
+                "ip_address": "62.40.41.162"
+            },
+            {
+                "id": 4,
+                "first_name": "Belvia",
+                "last_name": "Criple",
+                "email": "bcriple3@gravatar.com",
+                "gender": "Female",
+                "ip_address": "98.26.135.251"
+            },
+            {
+                "id": 5,
+                "first_name": "Kellby",
+                "last_name": "Nichols",
+                "email": "knichols4@moonfruit.com",
+                "gender": "Male",
+                "ip_address": "134.210.244.88"
+            },
+            {
+                "id": 6,
+                "first_name": "Bran",
+                "last_name": "Jobbings",
+                "email": "bjobbings5@about.com",
+                "gender": "Male",
+                "ip_address": "168.190.229.225"
+            },
+            {
+                "id": 7,
+                "first_name": "Hugo",
+                "last_name": "Mulvihill",
+                "email": "hmulvihill6@domainmarket.com",
+                "gender": "Male",
+                "ip_address": "132.134.123.122"
+            },
+            {
+                "id": 8,
+                "first_name": "Clarine",
+                "last_name": "Welldrake",
+                "email": "cwelldrake7@paypal.com",
+                "gender": "Female",
+                "ip_address": "6.86.164.247"
+            },
+            {
+                "id": 9,
+                "first_name": "Kinna",
+                "last_name": "Rigeby",
+                "email": "krigeby8@csmonitor.com",
+                "gender": "Female",
+                "ip_address": "107.198.208.73"
+            },
+            {
+                "id": 10,
+                "first_name": "Lesli",
+                "last_name": "Trodler",
+                "email": "ltrodler9@arizona.edu",
+                "gender": "Female",
+                "ip_address": "185.170.183.79"
+            }
+        ]
     
     }
 ]
