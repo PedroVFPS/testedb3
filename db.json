@@ -1,20 +1,20 @@
 {
-    
+
     "alunos": [
         {
             "id": 1,
             "nome": "Marcela da Silva",
-            "curso": 1
+            "curso": "Engenharia"
         },
         {
             "id": 2,
             "nome": "José Luiz Felipe",
-            "curso": 2
+            "curso": "Direito"
         },
         {
             "id": 3,
             "nome": "Paulo Rogério",
-            "curso": 3
+            "curso": "Engenharia"
         },
         {
             "id": 4,
@@ -24,6 +24,31 @@
         {
             "id": 5,
             "nome": "Luiza Cardoso Pereira",
+            "curso": 1
+        },
+        {
+            "id": 6,
+            "nome": "Felipe da Cunha",
+            "curso": 1
+        },
+        {
+            "id": 7,
+            "nome": "Felipe da Cunha",
+            "curso": 1
+        },
+        {
+            "id": 8,
+            "nome": "Felipe da Cunha",
+            "curso": 1
+        },
+        {
+            "id": 9,
+            "nome": "Felipe da Cunha",
+            "curso": 1
+        },
+        {
+            "id": 10,
+            "nome": "Felipe da Cunha",
             "curso": 1
         }
     ]
